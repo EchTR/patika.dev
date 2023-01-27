@@ -18,7 +18,7 @@ select * from film where rental_rate = 0.99 and replacement_cost = 12.99 or repl
 
 ### 4. customer tablosunda bulunan first_name sütunundaki değeri 'Mary' olan müşterinin last_name sütunundaki değeri nedir?
 ```sql
-select * from customer where first_name = 'Mary';
+select last_name from customer where first_name = 'Mary';
 -- bu sorgu sonrasında 'Smith' soyisminde sahip olduğu çıktısını aldım.
 ```
 <br>
