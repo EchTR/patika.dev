@@ -16,7 +16,7 @@ select count(store_id), store_id from customer group by store_id;
 ```
 <br>
 
-### 4. 4. city tablosunda bulunan şehir verilerini country_id sütununa göre gruplandırdıktan sonra en fazla şehir sayısı barındıran country_id bilgisini ve şehir sayısını paylaşınız.
+### 4. city tablosunda bulunan şehir verilerini country_id sütununa göre gruplandırdıktan sonra en fazla şehir sayısı barındıran country_id bilgisini ve şehir sayısını paylaşınız.
 ```sql
 select count(country_id), country_id from city group by country_id order by count desc limit 1;
 ```
