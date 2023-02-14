@@ -8,4 +8,4 @@ Pisagor Teoremi basitçe bir dik üçgenin hipotenüsünün hesaplanmasıdır. B
 
 ### Matematiksel Yazım
 Pisagor Teoremi'nin matematiksel yazımı şu şekilde: $a^2 + b^2 = c^2$
-![resim](https://useruploads.socratic.org/byPOcGrRdOVYadZBQUQ4_Untitled.jpg)
+![resim](resim.png)
