@@ -19,10 +19,12 @@ Pisagor Teoremi'nin matematiksel yazımı şu şekilde: $a^2 + b^2 = c^2$
 2. b = 4
 3. c = 5
 
-olmak üzere.
+olmak üzere. bu sayıların karelerini alacağız.
 1. $a^2 =$&nbsp;&nbsp;&nbsp;&nbsp;  $9$
 2. $b^2 =$&nbsp;&nbsp;&nbsp;&nbsp; $16$
 3. &nbsp;&nbsp;&nbsp;&nbsp; +__________
 4. $c^2 =$&nbsp;&nbsp;&nbsp;&nbsp; $25$
 
 değerlerini elde etmiş olduk, böylelikle formülümüz sağlanmış oldu. c'nin değerini bulduk. $c^2 = 25 => c=5$
+aşağıda ise görselleştirilmiş hali var:
+![resim](a2-b2-c2-600w-324047.webp)
